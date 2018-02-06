@@ -29,4 +29,3 @@ end
 def selects_bear_that_killed_Tim
   "SELECT * FROM bears WHERE name = null;"
 end
-
